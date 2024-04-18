@@ -21,6 +21,9 @@ I'm Web Backend developer from Republic of Korea, currently living in Seoul.
 * Movies and Books
 * Play bass guitar
 
+### I worked as a
+* Screenwriter and Book Editor
+
 <!--
 **bokyoung89/bokyoung89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
