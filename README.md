@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm bokyoung (Jennifer)
-I'm Web Backend developer from Republic of Korea, currently living in Seoul.
+As a web backend developer, I started my career in 2020.
 
 ### Code with
 <p>
@@ -15,14 +15,14 @@ I'm Web Backend developer from Republic of Korea, currently living in Seoul.
   <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### My passions
-* OOPs and Clean Code
-* How to Help Others with Web Development Skills
-* Movies and Books
-* Play bass guitar
+### I’m currently
+* interested in how to writing clean code with OOP.
+* learning MSA and Docker
 
-### I worked as a
-* Screenwriter and Book Editor
+### Fun fact
+* Before being a developer, I was an book editor.
+* Before being a book editor, I was a screenwriter.
+* play bass guitar 🎸
 
 <!--
 **bokyoung89/bokyoung89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
