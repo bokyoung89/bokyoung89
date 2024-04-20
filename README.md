@@ -24,7 +24,7 @@ As a web backend developer, I started my career in 2020.
 * Before being a book editor, I was a screenwriter.
 * play bass guitar 🎸
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233DC8BF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbokyoung89&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **bokyoung89/bokyoung89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
